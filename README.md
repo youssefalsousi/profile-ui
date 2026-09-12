@@ -1,2 +1,21 @@
-# profile-ui
-A responsive social profile UI task built with HTML, CSS, and Bootstrap as part of the Rowad Egypt Digital training.
+Profile UI
+
+A responsive social profile interface built with HTML, CSS, and Bootstrap.
+
+Technologies
+
+- HTML5
+- CSS3
+- Bootstrap
+
+Features
+
+- Responsive profile layout
+- User profile section
+- Posts and images
+- Comments and likes interface
+- Bootstrap components and styling
+
+Live Demo
+
+"View Live Demo" ()
