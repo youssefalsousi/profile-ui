@@ -18,4 +18,4 @@ Features
 
 Live Demo
 
-"View Live Demo" ()
+"View Live Demo" (https://youssefalsousi.github.io/profile-ui/)
